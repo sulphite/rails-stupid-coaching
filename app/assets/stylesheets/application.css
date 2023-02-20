@@ -25,3 +25,11 @@ div {
   padding: 0.5em;
   margin-bottom: 0.5em;
 } */
+
+figure {
+  border-left: 0.35em solid #ccc;
+}
+
+.answer {
+  background-color: #fff7ce;
+}
